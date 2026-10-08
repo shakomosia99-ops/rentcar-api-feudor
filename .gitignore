@@ -1,0 +1,8 @@
+.venv/
+.env
+__pycache__/
+*.pyc
+rentcar.db
+uploads/*
+!uploads/.gitkeep
+.vscode/
